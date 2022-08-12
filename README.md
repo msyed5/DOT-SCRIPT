@@ -69,7 +69,7 @@ pip install pyspellchecker
    <img src="https://github.com/msyed5/DOT-SCRIPT/blob/main/img/JupyterSampleErrorLog.png" height="400">
    
    
-6. Errors can be corrected manually or with a seperate data cleaning script (Link here when ready)
+6. Errors can be corrected manually or with a seperate data cleaning script [data cleaning script](https://github.com/linni123789/nycdot).
 7. Rereun the script to confirm errors were corrected.
 
 ### Running Terminal Version of Script
@@ -86,7 +86,7 @@ pip install pyspellchecker
 
    <img src="https://github.com/msyed5/DOT-SCRIPT/blob/main/img/TerminalSampleErrorLog.png" height="300">
 
-4. Errors can be corrected manually or with a seperate data cleaning script (Link here when ready). 
+4. Errors can be corrected manually or with a seperate [data cleaning script](https://github.com/linni123789/nycdot). 
 5. Rereun the script to confirm errors were corrected.
 
 ## Workflow Overview
